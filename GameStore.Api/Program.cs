@@ -27,6 +27,8 @@ List<GameDto> games = [
     )
 ];
 
+app.MapGet("games", () => games);
+
 app.MapGet("/", () => "Keep WORKING!!!!!!" );
 
 app.Run();
