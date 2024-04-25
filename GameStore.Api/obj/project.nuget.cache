@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "C6ibnlXgOFoDPrTMb7kjJAOb0uGy5HnK+a295+FVorCH0NVQKkf6rv3aj8GJoXXW1StY4is8YSW0dtxyXmIztg==",
+  "dgSpecHash": "xlP9P0Z/2wdj0xUWmgNOg7KwW3bXNbs1pzqpdPOZuezleZWLs226kGiYn5HvB23G3uP0Fn3Ptb64/M7dcTGcPQ==",
   "success": true,
   "projectFilePath": "/Users/ender/WebApplications/GameStore/GameStore.Api/GameStore.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ender/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ender/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
+    "/Users/ender/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }
